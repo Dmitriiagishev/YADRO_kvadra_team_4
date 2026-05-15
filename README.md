@@ -1,0 +1,1 @@
+# YADRO_kvadra_team_4
