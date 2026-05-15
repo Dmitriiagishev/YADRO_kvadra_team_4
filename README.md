@@ -23,7 +23,7 @@ make
 ```
 curl "http://localhost:1234/media_files"
 ```
-Код разрабатывался на arch linux сборка и работа проверялась на нем и на ВМ kali linux 
+Код разрабатывался на arch linux. Сборка и работа проверялась на нем же и на ВМ kali linux 
 ```
 Kali Rolling (2026.1) x64
 2026-03-20
